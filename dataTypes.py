@@ -1,0 +1,6 @@
+set1 = set(("Geeks", "For", "Geeks"))
+set1.add("Rajkot")
+set1.update([10, 11])
+print("Set is:- ", set1)
+set1.discard("Geeks")
+print("Set is:- ", set1)
